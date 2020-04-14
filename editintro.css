@@ -1,0 +1,36 @@
+#cancelicon{
+    position: relative;
+    left:41vw;top: -45px;
+    display: inline;
+}
+input{
+    width:44vw;
+    height:30px;
+    background-color: #f3f7f7;
+    margin: 0px 0px 0px 20px;
+}
+label{
+    font-size:14px;
+    color: #576871;
+    margin: 0px 0px 0px 20px;
+    width:578px ;
+    height:21px;
+}
+
+@media screen and (max-width:1040px){
+    #cancel{
+        
+          position: relative;
+          margin-left:-120px;
+          width:115.2px;
+          height: 40px;
+          
+    }
+    #save{
+    
+        position: relative;
+        margin-left:-10px;
+        width:115.2px;
+        height: 40px;
+    }
+}
